@@ -1,7 +1,7 @@
 const EventEmmiter = require('events');
 var Discord = require('discord.io');
 
-const VERSION = "1.1.1";
+const VERSION = "1.1.2";
 const CODENAME = "Chiara";
 
 const eventBus = new EventEmmiter();
